@@ -1,4 +1,4 @@
-# Hi i'm MUNEESWARAN-S
+# Hi i'm MUNEESWARAN S
 "Aspring Data analyst |Skilled in Excel,Powe BI, Python,SQL,and data visalization|Passionate about transforming data into actionable insights|Currently seeking opportunities to apply my project experince."
 # 🔍 About Me
 
